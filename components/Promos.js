@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import Portfolio from "./Portfolio";
 
 const Promos = () => {
   return (
